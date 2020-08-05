@@ -1,9 +1,5 @@
-class School  
-  
-  
-  def initialize
-  
-  end
+class School
+roster = {}
 
 
 end

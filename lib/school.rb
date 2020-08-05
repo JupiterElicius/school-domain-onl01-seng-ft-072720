@@ -1,6 +1,6 @@
-class School
-
-roster = {}
+class School  
+  def initialize
+    roster = {}
 
 
 
